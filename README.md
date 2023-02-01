@@ -1,5 +1,5 @@
 # Starbucks
-DS520 Team 3 Project 
+DS520 Team Project 
 
 This is dipository for DS520 Team 3 Project 
 
